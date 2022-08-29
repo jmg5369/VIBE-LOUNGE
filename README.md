@@ -15,7 +15,6 @@ You don't have to create an account of any sort, and all of your previous picked
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 - [Features](#features)
 - [Examples/Tests](#examples)
@@ -33,6 +32,28 @@ You don't have to create an account of any sort, and all of your previous picked
 - Alternatively, you can navigate to the cloned down repository, and run "node index.js" to launch the application.
 
 
+
+## License
+
++ MIT
+
+## Features
+
++ User is initially presented with a clean homepage and an easy-to-understand mood selector.
+
++ User is able to enter current mood based on options provided. 
+
++ User is also able to see any previous visits and a history of their previous moods. 
+
+
+
+
+## Examples
+
+Screenshots:
+
+Desktop:
+![Desktop view of application](./assets/images/VibeLounge-Screenshot.png)
 
 ## Questions
 
